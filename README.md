@@ -1,12 +1,11 @@
 # Personalized Dictionary---Text transformation
-***The function will help readers sort out their notes of new words and their meanings.***
-
-
+**The function will help readers sort out their notes of new words and their meanings.**
+#-----------------------------------------------------------
 This Python function will help readers build their customized dictionary for each book. It will sort out all new words in alphabetical order and allow readers to look up new words or special terms more easily. The process is keeping all new words and their meaning in one document file (getting updated this file as the reader goes along with one book reading) and then putting it into the Python function. Then, you have a mini dictionary with details about the book you are reading.
------------
+#------------------------------------------------------------
 The input is in MS Word or text format, including the new words attached with their meanings. 
 The output is the table with two columns ( one is New words, and the other is Meaning/Definition) represented in word format.
------------
+
 **This process will boost the reader's performance by solving issues:**
 * New words are often stored in different places( notes, phones, laptops, etc.). Many people might have said this before: Where is my note for this word? I definitely wrote it down somewhere.
 * Avoid duplicated words. Writing the same new words in different places.
